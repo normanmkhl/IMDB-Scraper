@@ -1,5 +1,5 @@
 # IMDB-Scraper
-IMDB scraper project for the final exam of programming practicum
+IMDB scraper project 
 
 Library used: <br>
 Jsoup : https://jsoup.org
